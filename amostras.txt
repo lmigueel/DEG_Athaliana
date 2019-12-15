@@ -1,0 +1,7 @@
+sample	condition	reps
+SRR9696658	Controle	1       
+SRR9696662	Controle	1
+SRR9696666	Controle	1
+SRR9696660	Tratado	2
+SRR9696664	Tratado	2
+SRR9696668	Tratado	2
